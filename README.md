@@ -94,7 +94,7 @@
 
 ## 📁 **Структура проекта**
 ```
-mipt-2025-subscription-prediction/
+predicting_user_conversion/
 ├── README.md                          # Эта документация
 ├── requirements.txt                   # Зависимости Python
 ├── notebooks/
