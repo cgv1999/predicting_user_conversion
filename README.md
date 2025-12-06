@@ -100,7 +100,5 @@ mipt-2025-subscription-prediction/
 ├── notebooks/
 │   └── eda_hypothesis_testing.ipynb   # Полный анализ
 ├── data/
-│   └── dataset.csv                    # Исходные данные
-└── reports/
-    └── dashboard/                     # Дашборд
+│   └── videostreaming_platform.csv    # Исходные данные
 ```
